@@ -14,6 +14,6 @@ public class NaughtsAndCrossesGUI {
         int ySize = (int)tk.getScreenSize().getHeight();
         game.setSize(xSize,ySize);
         game.setVisible(true); 
-        
+       
     }
 }
